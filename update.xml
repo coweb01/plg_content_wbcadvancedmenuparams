@@ -9,10 +9,10 @@
 		<version>2.1.1</version>
 		<infourl title="plg_content_wbcadvancedmenuparams">https://github.com/coweb01/plg_content_wbcadvancedmenuparams</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/coweb01/plg_content_wbcadvancedmenuparams/releases/download/2.1.1./plg_content_wbcadvancedmenuparams_2.1.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/coweb01/plg_content_wbcadvancedmenuparams/releases/download/2.1.1/plg_content_wbcadvancedmenuparams_2.1.1.zip</downloadurl>
 		</downloads>
 		<tags>dev</tags>
-		<sha512>72eee97bb494cf287e414c943a744484a9c2b399a1b8328f9c26f6bafaaa1255f723fc4110ff3c36220b0232dc515492df171446d19d34fc010117ccaf10210a</sha512>
+		<sha512>8755d211e20c8c92692fc17da485e1aa5f09acf19403cbc234895a2f786b45e128e2aa76536016a3cfcc50ecf397ef7ab3e78ff149e2ae489850532d161b6fa2</sha512>
 		<maintainer>Claudia Oerter</maintainer>
 		<maintainerurl>https://www.das-webconcept.de</maintainerurl>
 		<php_minimum>8.0</php_minimum>
