@@ -18,4 +18,7 @@
 		<language tag="de-DE">de-DE/de-DE.plg_content_wbcadvancedmenuparams.sys.ini</language>
 		<language tag="en-GB">en-GB/en-GB.plg_content_wbcadvancedmenuparams.ini</language>
 	</languages>
+	<updateservers>
+        <server type="extension" name="WBC Advanced Menue Params">https://raw.githubusercontent.com/coweb01/plg_content_wbcadvancedmenuparams/master/update.xml</server>
+    </updateservers>
 </extension>
