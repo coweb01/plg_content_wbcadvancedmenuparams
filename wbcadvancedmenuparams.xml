@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.3" type="plugin" group="content" method="upgrade">
+	<name>plg_content_wbcadvancedmenuparams</name>
+	<creationDate>10-01-2024</creationDate>
+	<author>Webconcept / Claudia Oerter</author>
+	<authorEmail>info@das-webconcept.de</authorEmail>
+	<copyright>Copyright (C) 2015 das-webconcept</copyright>
+	<description>PLG_ADVANCEDMENUPARAMS_DESC</description>
+	<version>2.1.1</version>
+	<files>
+		<filename plugin="wbcadvancedmenuparams">wbcadvancedmenuparams.php</filename>
+		<filename>index.html</filename>
+		<folder>forms</folder>
+	</files>
+	<languages folder="language">                                
+		<language tag="de-DE">de-DE/de-DE.plg_content_wbcadvancedmenuparams.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_content_wbcadvancedmenuparams.sys.ini</language>
+		<language tag="de-DE">de-DE/de-DE.plg_content_wbcadvancedmenuparams.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_content_wbcadvancedmenuparams.ini</language>
+	</languages>
+</extension>

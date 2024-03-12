@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<fields name="params">
+		<fieldset label="PLG_ADVANCEDMENUPARAMS_CUSTOM_PARAMS" name="params">
+			<field 
+					name="accesskey" 
+					type="text" 
+					default="" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_ACCESSKEY_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_FIELD_ACCESSKEY_DESC" 
+					size="10" />
+						
+			<field name="note01" type="note" label="PLG_ADVANCEDMENUPARAMS_NOTE1_LABEL" description="PLG_ADVANCEDMENUPARAMS_NOTE1_DESC" class="alert" close="true" />				
+			<field 
+					name="dropdowncolums" 
+					type="radio" 
+					class="btn-group"
+					default="0" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_PARENTITEM_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_PARENTITEM_DESC">
+						<option value="1">JYES</option>
+						<option value="0">JNO</option>
+			</field>
+			<field 
+					name="menucolumn" 
+					type="radio" 
+					class="btn-group"
+					default="0" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_MENUCOLUMN_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_MENUCOLUMN_DESC">
+						<option value="1">JYES</option>
+						<option value="0">JNO</option>
+			</field>
+			<field 
+					name="columnwidth" 
+					type="text" 
+					default="" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_COLUMNWIDTH_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_COLUMNWIDTH_DESC" 
+					size="10" />
+			<field 
+					name="columnwidthunit" 
+					type="radio" 
+					class="btn-group"
+					default="%" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_COLUMNWIDTHUNIT_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_COLUMNWIDTHUNIT_DESC" >
+						<option value="%">%</option>
+						<option value="px">px</option>
+						<option value="em">em</option>
+			</field>
+			<field name="note02" type="note" label="PLG_ADVANCEDMENUPARAMS_NOTE2_LABEL" description="PLG_ADVANCEDMENUPARAMS_NOTE2_DESC" class="alert" close="true" />				
+			<field 
+					name="description" 
+					type="text" 
+					default="" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_DESCRIPTION_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_DESCRIPTION_DESC" 
+					size="10" />
+			<field 
+					name="content_plg" 
+					type="text" 
+					default="" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_CONTENTPLG_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_CONTENTPLG_DESC" 
+					size="10" />
+			<field 
+					name="linkcss" 
+					type="text" 
+					default="" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_LINKCSS_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_LINKCSS_DESC" 
+					size="10" />
+			<field 
+					name="headlinedropdown" 
+					type="radio" 
+					class="btn-group"
+					default="0" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_HEADLINEDROPDOWN_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_HEADLINEDROPDOWN_DESC">
+						<option value="1">JYES</option>
+						<option value="0">JNO</option>
+			</field>
+			<field 
+					name="headlinedropdowntxt" 
+					type="text" 
+					default="" 
+					label="PLG_ADVANCEDMENUPARAMS_FIELD_HEADLINEDROPDOWNTXT_LABEL" 
+					description="PLG_ADVANCEDMENUPARAMS_HEADLINEDROPDOWNTXT_DESC" 
+					size="10" />	
+			
+		</fieldset>
+	</fields>
+</form>
+
